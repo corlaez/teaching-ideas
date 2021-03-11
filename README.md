@@ -12,7 +12,7 @@ Inspired by: https://www.youtube.com/watch?v=Ws6qmXDJgwU
 
 ### Category theory:
 
-* Help them think in relationships, introduce them to the notion of bottom early on. You don't evem
+* Help them think in relationships, introduce them to the notion of bottom early on. You don't even need to talk about category theory but just how operations in different contexts are related.
 
 ## Music
 
