@@ -26,3 +26,9 @@ Inspired by: https://www.youtube.com/watch?v=Ws6qmXDJgwU
 * Random color: A program that draws pixels in the window randomly, limit color choise, play with different values
 * Levels of abstraction: The idea that higher abstraction modules talking to the abstraction level just below it and staying at that level of abstraction. Think of a program that fits this. (Maybe a toy apollo simulator? Maybe a small problem we can actually solve in three or four layers)
 * Talking heads: Create methods that define behaviors for given actors. Like teacher or student... get creative (link)[https://twitter.com/SchoolDataNerd/status/1370239683624464393]
+
+# Language
+
+* Exposure. Prefer original language plus subtitles in movies
+* When little. Use sign language to explain how words from different languages are the same thing
+* For parents that know different languages, translation game: Parents take turn saying a word in their native language, the child has a chance to translate to win a point, if it is unable to get the point the other parent has a chance to translate to earn a point, if no guesses the word proposer  wins half a point. The child has a slight advantage because it can always guess first and 'steal' the points away.
