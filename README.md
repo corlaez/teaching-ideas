@@ -12,7 +12,7 @@ Inspired by: https://www.youtube.com/watch?v=Ws6qmXDJgwU
 
 ### Category theory:
 
-* Help them think in relationships, introduce them to the notion of bottom early on. You don't even need to talk about category theory but just how operations in different contexts are related.
+* Help them think in relationships, introduce them to the notion of bottom early on. You don't even need to talk about category theory but just how operations in different contexts are related (I need to expand on this).
 
 ## Music
 
@@ -25,3 +25,4 @@ Inspired by: https://www.youtube.com/watch?v=Ws6qmXDJgwU
 * Random character: Simple program that print random characters in a loop. Filter character. Stop when <WORD> is found
 * Random color: A program that draws pixels in the window randomly, limit color choise, play with different values
 * Levels of abstraction: The idea that higher abstraction modules talking to the abstraction level just below it and staying at that level of abstraction. Think of a program that fits this. (Maybe a toy apollo simulator? Maybe a small problem we can actually solve in three or four layers)
+* Talking heads: Create methods that define behaviors for given actors. Like teacher or student... get creative (link)[https://twitter.com/SchoolDataNerd/status/1370239683624464393]
